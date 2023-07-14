@@ -35,5 +35,13 @@ Brand and Logo Abenet Asnake T
 /* ------------Navigation Section---------END END--------------- */
 
 /* ------------Front Section Video Slider------------------------ */
-
+#videoSlider {
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  #videoSlider video {
+    width: 100%;
+    height: auto;
+  }
 /* ------------Front Section Video Slider------------END END------------ */

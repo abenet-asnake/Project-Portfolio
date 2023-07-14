@@ -1,0 +1,35 @@
+/* ------------Navigation Section------------------------ */
+
+/*
+Brand and Logo Abenet Asnake T
+@face font 
+*/
+@font-face{
+    font-family: "abenet asnake";
+    src:local('abenet asnake'), 
+    url("Font/curly.ttf") format('truetype');
+    font-weight: bold;
+    font-size:40px
+
+  }
+  .brand-name ,.navbar-light .navbar-brand{
+   
+    font-family:"abenet asnake";
+    font-size: 35px;
+    font-weight: bold;
+    color: #1f0637;
+    padding-top: 2.3125rem;
+    padding-bottom: -5.6875rem;
+  
+}
+  .navhover {
+    color: black;
+    margin: 0 7px 0 7px;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 2.3125rem;
+
+  }
+
+/* ------------Navigation Section---------END END--------------- */

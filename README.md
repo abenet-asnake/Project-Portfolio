@@ -1,2 +1,2 @@
 # Project-Portfolio
-This the project portfolio that don using Responsive website   
+This the project portfolio that doen using HTMl css and JS    

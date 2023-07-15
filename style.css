@@ -1,7 +1,7 @@
 /* ------------Navigation Section------------------------ */
 
 /*
-Brand and Logo Abenet Asnake T
+Brand and Logo Abenet Asnake 
 @face font 
 */
 @font-face{
@@ -38,10 +38,12 @@ Brand and Logo Abenet Asnake T
 #videoSlider {
     height: 100%;
     overflow: hidden;
+    position: left;
   }
   
   #videoSlider video {
     width: 100%;
     height: auto;
   }
+
 /* ------------Front Section Video Slider------------END END------------ */

@@ -1,2 +1,2 @@
 # Project-Portfolio
-This the project portfolio that doen using HTMl css and JS    
+This project a portfolio that done using HTMl css and JS    
